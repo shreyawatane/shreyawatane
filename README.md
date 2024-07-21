@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **full stack development**
 
-- 📫 How to reach me **shreya2882004@gmail.com**
+- 📫 How to reach me **techwhiz.shreya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
