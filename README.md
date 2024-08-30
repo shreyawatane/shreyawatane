@@ -1,17 +1,17 @@
 ![logo](https://github.com/shreyawatane/shreyawatane/blob/main/GithubBanner.png)
 <h1 align="center">Hi 👋, I'm Shreya watane</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Cybersecurity Enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyawatane&label=Profile%20views&color=0e75b6&style=flat" alt="shreyawatane" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shreya_watane" target="blank"><img src="https://img.shields.io/twitter/follow/shreya_watane?logo=twitter&style=for-the-badge" alt="shreya_watane" /></a> </p>
 
-- 🌱 I’m currently learning **html, css,Js**
+- 🌱 I’m currently learning **Netwoking, SIEM, Linux , SQL**
 
-- 🤝 I’m looking for help with **full stack development**
+- 🤝 I’m looking for help with **Cybersecurity tasks**
 
-- 📫 How to reach me **techwhiz.shreya@gmail.com**
+- 📫 How to reach me **wataneshreya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
