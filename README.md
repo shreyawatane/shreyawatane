@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shreya_watane" target="blank"><img src="https://img.shields.io/twitter/follow/shreya_watane?logo=twitter&style=for-the-badge" alt="shreya_watane" /></a> </p>
 
-- 🌱 I’m currently learning **Netwoking, SIEM, Linux , SQL**
+- 🌱 I’m currently learning **Netwoking, SIEM, Linux , SQL, OSI Layers**
 
 - 🤝 I’m looking for help with **Cybersecurity tasks**
 
